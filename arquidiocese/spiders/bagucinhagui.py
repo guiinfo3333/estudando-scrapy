@@ -34,9 +34,24 @@ class BagucinhaguiSpider(scrapy.Spider):
         endereco = response.css(".is-style-stripes:nth-child(3) tr:nth-child(1) td+ td::text").getall()
         if cep == []:
             cep = response.css(".page-title+ .is-style-stripes tr:nth-child(3) td+ td::text").getall()
+        if cep == []:
+            cep = response.css(".is-style-stripes:nth-child(2) tr:nth-child(3) td+ td::text").getall()
+        if cep == []:
+            cep = response.css(".wp-container-2 tr:nth-child(3) td+ td::text").getall()
         if endereco == []:
             endereco = response.css(".page-title+ .is-style-stripes tr:nth-child(1) td+ td::text").getall()
+        if endereco == []:
+            endereco = response.css(".is-style-stripes:nth-child(2) tr:nth-child(1) td+ td::text").getall()
+        if endereco == []:
+            endereco = response.css(".wp-container-2 tr:nth-child(1) td+ td:text").getall()
+
         bairro = response.css(".is-style-stripes:nth-child(3) tr:nth-child(2) td+ td::text").getall()
+        if bairro == []:
+            bairro = response.css(".is-style-stripes:nth-child(2) tr:nth-child(2) td+ td::text").getall()
+
+        if bairro == []:
+            bairro = response.css(".wp-container-2 tr:nth-child(2) td+ td::text").getall()
+
         horario_missa_domingo = response.css(".is-style-stripes:nth-child(7) tr:nth-child(1) td+ td::text").getall()
         horario_missa_segunda = response.css(".is-style-stripes:nth-child(7) tr:nth-child(2) td+ td::text").getall()
         horario_missa_terca = response.css(".is-style-stripes:nth-child(7) tr:nth-child(3) td+ td::text").getall()
