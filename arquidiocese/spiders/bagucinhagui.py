@@ -32,6 +32,10 @@ class BagucinhaguiSpider(scrapy.Spider):
         nome_paroquia = response.css('.page-title::text').getall()
         cep = response.css(".is-style-stripes:nth-child(3) tr:nth-child(3) td+ td::text").getall()
         endereco = response.css(".is-style-stripes:nth-child(3) tr:nth-child(1) td+ td::text").getall()
+        if cep == []:
+            cep = response.css(".page-title+ .is-style-stripes tr:nth-child(3) td+ td::text").getall()
+        if endereco == []:
+            endereco = response.css(".page-title+ .is-style-stripes tr:nth-child(1) td+ td::text").getall()
         bairro = response.css(".is-style-stripes:nth-child(3) tr:nth-child(2) td+ td::text").getall()
         horario_missa_domingo = response.css(".is-style-stripes:nth-child(7) tr:nth-child(1) td+ td::text").getall()
         horario_missa_segunda = response.css(".is-style-stripes:nth-child(7) tr:nth-child(2) td+ td::text").getall()

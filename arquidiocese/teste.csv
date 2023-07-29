@@ -1,0 +1,150 @@
+nome,cep,endereco,bairro,horario_missa_domingo,horario_missa_segunda,horario_missa_terca,horario_missa_quarta,horario_missa_quinta,horario_missa_sexta,horario_missa_sabado,horario_confissoes
+"Paróquia Nossa Senhora de Fátima, Álvaro Weyne",60336-100,"Rua Silvio Romero, 370",Álvaro Weyne,7h | 17h, ,19h ,19h, ,19h,17h,"Sextas-feiras de 15h às 17h, na Matriz."
+"Paróquia Jesus, Maria, José, Antônio Bezerra",60360-640,"Rua Rui Monte,  95",,,,,,,,,
+"Paróquia Nossa Senhora da Conceição, Conjunto Ceará",60533-695,"Avenida Ministro Albuquerque de Lima, 335 – I etapa",,,,,,,,,
+"Paróquia Cristo Redentor, Cristo Redentor",,,,,,,,,,,"Terça-feira, após a missa das 19h, quarta, antes da missa das 19h e sexta, antes da missa das 19h."
+"Paróquia-Santuário Nossa Senhora da Assunção, Vila Velha",60347-780,"Avenida Dom Aloísio Lorscheider, 960","Conjunto Nova Assunção, Vila Velha",7h | 9h | 17h, , ,17h,17h,17h,17h,Quartas e quintas-feiras de 16h às 17h.
+"Paróquia São Pedro, Barra do Ceará",60332-240,"Rua Irmã Ana Maria, 10",Barra do Ceará,8h30min | 19h, , , ,19h, 15h, ,
+"Paróquia São Pedro e São Paulo, Jardim Guanabara",60346-255,"Rua Padre Teodoro, 996",Jardim Guanabara,7h  |  17h  | 19h, ,19h, ,19h,19h,17h30min,
+"Paróquia São Francisco de Assis, Vila Velha III",60349-180,"Rua P, 60",Vila Velha III, 8h | 17h, , 19h, , , , ,1ª terças-feiras 1ª sextas-feiras de 18h às 19h.
+"Paróquia São Francisco de Assis, Quintino Cunha",60352-640,"Rua dos Pescadores, 145",Quintino Cunha,6h30min  | 8h  | 18h,19h,19h,19h,19h,19h,18h30min,
+"Paróquia Nossa Senhora das Graças, Pirambu",60310-770,"Rua Nossa Senhora das Graças, 255",Pirambu,,,,,,,,
+"Paróquia Santo Antônio de Pádua, Granja Portugal",60541-520,"Rua Taquari, 2231",Granja Portugal,7h | 17h | 19h , ,, ,19h ,, ,Terças e quintas-feiras das 9h30min às 11h.
+"Paróquia Santo Antônio de Pádua, Jardim Iracema",60341-140,"Rua Alberto Ferreira, 230",Jardim Iracema,8h | 16h30min | 19h,…,19h,19h,19h,19h,19h,
+"Paróquia São Gerardo Majella, São Gerardo",60325-001,"Avenida Bezerra de Menezes, 1256",São Gerardo,8h | 17h | 19h,17h30min,17h30min,17h30min,17h30min,17h30min,18h ,
+"Paróquia São José, Sapiranga",60.833-034,"Rua Crisanto Moreira da Rocha, 600",Sapiranga (Coité),7h | 17h | 19h , , ,, ,19h,,Quintas-feiras de 17h às 21h (Por ordem de chegada na Matriz).
+"Paróquia São José, Passaré",60861-790,"Avenida Pompílio Gomes, 300",Passaré,8h Celebração da Palavra | 17h Missa, , , , ,19h, ,
+"Paróquia São José, Lagoa Redonda",60831-600,"Avenida Recreio, 1815",Lagoa Redonda,7h  | 11h | 19h, , , , , ,  17h ,
+"Paróquia São João Eudes, Conjunto Engenheiro Luciano Cavalcante",60810-480,"Rua José Guilherme da Costa, 60",Conjunto Engenheiro Luciano Cavalcante,7h | 12h | 19h,7h  ,7h | 18h30min,7h,7h | 19h,7h,19h,
+"Paróquia São João Paulo II, Guajerú",60843-057,"Travessa Antônio Magalhães, 311",Guajerú,8h15 ,,,,19h ,19h ,19h ,
+"Paróquia São Francisco Xavier, Conjunto Esperança",60763-730,"Avenida Contorno Norte, 979",Conjunto Esperança,7h  | 19h, , ,19h , ,19h ,17h,Quintas-feiras de 16h30 às 18h.
+"Paróquia São Francisco de Assis, Mangabeira, Eusébio",61760-000,"Rua Coronel Ednardo Weyne, s/n",Mangabeira,7h | 19h, , , , ,19h, ,
+"Santuário-Basílica de São Francisco das Chagas, Centro, Canindé",62700-000,"Praça da Basílica, s/n",Centro,6h | 7h30min | 9h | 16h | 18h,6h | 9h | 18h,6h | 9h  ,6h | 9h | 18h,6h | 9h | 18h,6h | 9h | 18h,6h | 9h | 16h30min,
+"Paróquia Senhora Santana, Centro, Paramoti",62736-000,"Rua José Firmo de Aguiar, 340",Centro,8h | 18h, , , , , ,,
+"Paróquia São Miguel Arcanjo, Itapebuçu, Maranguape",61988-000,"Rua José Cristóvão Araújo, 352",Distrito de Itapebuçu,8h | 19h, , , , , , ,
+"Paróquia São Francisco das Chagas, Centro, Canindé",62700-000,"Rua Simão Barbosa, 1209",Centro,8h, , ,, , ,18h,
+"Paróquia Nossa Senhora das Dores, Campos Belos, Caridade",62730-000,"Rua Monsenhor Dantas,  470",Campos Belos,7h | 17h | 19h , , , ,19h, , ,
+"Paróquia de São José, Bela Vista, Canindé",62700-000,"Avenida São José, 795",Bela Vista,7h | 11h | 19h , ,18h30min, ,18h30min, , ,Terças-feiras a sextas-feiras das 8h às 11h30min.
+"Paróquia Santo Antônio, Centro, Caridade",62730-000,"Rua Doutor Plácido Pinho, 148",,,,,,,,,"Quintas-feiras aos sábados de 9h às 11h, na Matriz."
+"Área Pastoral Santo Antônio de Pádua, Caiçara, Canindé",62700-000,"Avenida Santo Antônio, 750",Distrito de Caiçara,7h | 19h , , , , , , ,Marcar com o padre.
+"Paróquia São Francisco de Assis, Dias Macedo",60860-012,"Avenida Alberto Craveiro, 900",Dias Macedo,7h | 19h, , ,19h,19h,19h,19h ,Quartas e sextas-feiras de 15h às 18h30min
+"Paróquia São Francisco de Assis, Conjunto Palmeiras",60870-140,"Rua Modesta, 115 A",,,,,,,,,Terças-feiras de 14 às 17h e sextas-feiras de 8h às 11h.
+"Paróquia São Diogo, Cajazeiras",60864-450,"Rua Maria Nogueira França, 5",Cajazeiras,,,,,19h,,,"Quintas-feiras das 17h às 18h, na Matriz."
+"Paróquia Santo Antônio de Pádua, Maraponga",60710-690,"Rua Lourenço Pessoa, 760",,,,,,,,,Quarta-feira – 15h às 16h (Frei Valdir)
+"Paróquia Nossa Senhora Mãe dos Pobres, Tancredo Neves",,,,,,,,,,,Quintas-feiras de 18h às 19h.
+"Paróquia Nossa Senhora do Sagrado Coração, Aerolândia",60851-280,"Rua Aspirante Mendes, 540",Aerolândia, 7h30min | 10h | 17h | 18h30min, ,18h,18h ,18h,18h ,18h,Terças-feiras e quintas-feiras de 16h às 17h45min.
+"Paróquia Santíssima Trindade, Conjunto Prefeito José Walter",60750-790,"Avenida C, 311 – II Etapa",Conjunto Prefeito José Walter,7h | 9h | 16h | 18h, ,19h ,19h ,19h ,19h ,18h   ,Terças-feiras a sextas-feiras de 15h às 17h. (por agendamento)
+"Paróquia Sagrado Coração de Jesus e Santa Luzia, Pedras",60874-874,"Rua José Nogueira, 120",Pedras,17h30min, , , , ,, ,
+"Paróquia Nossa Senhora do Perpétuo Socorro, Mondubim",60762-410,"Avenida Wenefrido Melo, 88 A",Mondubim,7h  |  19h, , , , ,19h, ,Quartas-feiras das 16h30 às 18h (padre Edmilson) e as sextas-feiras das 15h às 17h (padre Madson).
+"Área Pastoral São Pedro, Alto Guaramiranga, Canindé",62700-000,"Rua J Pinto, s/n",,,,,,,,,
+"Paróquia Sant’Ana e São Joaquim, Centro, Eusébio",61760-000,"Avenida Parnamirim, s/n",Centro,7h | 9h | 12h | 17h | 19h,,,17h30min,,17h30min,17h,Quartas-feiras e sextas-feiras de 15h30 às 17h (por agendamento).
+"Paróquia Nossa Senhora do Perpétuo Socorro, Conjunto Alto Alegre",60875-305,"Rua 10, 105",Conjunto Alto Alegre – São Bento,19h, ,18h30min,18h30min,19h,18h30min, ,
+"Paróquia Nossa Senhora das Graças, Parque Santa Maria",60873-010,"Rua Maria Quintino, 650",Parque Santa Maria,7h  |  16h  |  19h, ,19h, , ,19h, ,Sextas-feiras de 16h às 18h.
+"Paróquia Nossa Senhora das Graças, Manuel Sátiro",60713-480,"Rua Fernando Farias de Melo, 840",Manuel Sátiro, 8h  |  11h  |  19h, 19h, ,, ,, 19h,Segundas-feiras e quintas-feiras de 17h às 18h30min.
+"Paróquia São José, Centro, Maracanaú",61900-021,"Praça Major Brás, 5",Centro,7h | 17h | 19h, ,18h,18h,18h,18h,18h,Terças-feiras a sextas-feiras das 16h30min às 17h40min.
+"Paróquia São João Paulo II, Conjunto Acaracuzinho, Maracanaú",61920-700,"Avenida Central Sul, 200",Conjunto Acaracuzinho, 7h | 19h, , , ,19h30min, , ,
+"Paróquia São Francisco das Chagas, Conjunto Jereissati II, Pacatuba",61814-312,"Rua 73, 1121",Conjunto Jereissati II,7h  | 19h, , ,19h, , , ,Quarta-feira de 18h às 18h50min
+"Paróquia Santo Antônio de Pádua, Centro, Itaitinga",61880-000,"Praça da Matriz, s/n",Centro,8h | 19h, , ,19h, , ,19h,"Quarta-feira e quinta-feira de 15h às 17h, na Igreja Matriz."
+"Paróquia Nossa Senhora do Perpétuo Socorro, Jereissati I, Maracanaú",61900-370,"Avenida 2, 50",Conjunto Jereissati I,7h | 10h | 19h, , ,18h, ,18h,19h,Quartas-feiras e sextas-feiras das 17h às 18h50min.
+"Paróquia Nossa Senhora da Conceição, Tabatinga, Maranguape",61940-000,"Avenida Tabatinga, 1086",Tabatinga,7h | 19h, , , , , , ,Quartas-feiras e sextas-feiras de 8h às 12h.
+"Paróquia Nossa Senhora da Conceição, Pajuçara, Maracanaú",61932-330,"Rua João Conrado, 308",,,,,,,,,"Quintas-feiras das 18h às 18h45min, na Igreja Nossa Senhora da Conceição."
+"Paróquia Nossa Senhora da Penha, Centro, Maranguape",61940-140,"Rua Domingos Façanha, 107",Centro,7h | 9h | 19h, , ,19h, , ,19h,Quartas-feiras e quintas-feiras de 8h às 11h.
+"Paróquia Nossa Senhora da Conceição, Centro, Pacatuba",61801-240,"Rua Presidente Getúlio Vargas, 404",Centro,,,,,,,,Quartas-feiras das 8h às 11h e 14h às 16h.
+"Paróquia Menino Jesus, Conjunto Industrial, Maracanaú",61925-210,"Avenida Contorno Sul, 42",Conjunto Industrial,7h | 9h |19h,Sem Celebrações,19h,19h,19h,19h,17h,
+"Paróquia Jesus, Maria, José, Centro, Guaiúba",61890-000,"Rua Antônio Accioly, 168",Centro,19h, ,19h ,19h,19h ,19h , ,
+"Área Pastoral São João Batista, Jaçanaú, Maracanaú",61915-630,"Rua Oscar Ferreira de Brito, 120",Jaçanaú,7h | 9h  | 17  | 19h, ,19h,19h,19h,19h, ,"Quintas-feiras, às 17h."
+"Área Pastoral São Francisco de Assis, Água Verde, Guaiúba",61890-000,"Rua São Francisco, 500",,,,,,,,,"Criada em 30 de maio de 2023 por Dom Jose Antonio Aparecido Tosi Marques pelo decreto n° 001/2023, sendo desmembrada da Paróquia Jesus, Maria, José, Guaiúba."
+"Paróquia Nossa Senhora da Conceição, Messejana",60842-010,"Rua Coronel Joaquim Bezerra, 255",Messejana,7h | 17h | 19h, ,17h30min,17h30min ,17h30min,17h30min,,"Terças-feiras a sextas-feiras de 15h às 17h, na secretaria paroquial. (por agendamento)"
+"Paróquia Nossa Senhora da Glória, Cidade dos Funcionários",60822-130,"Avenida Oliveira Paiva, 905",Cidade dos Funcionários,7h | 9h | 11h | 17h | 19h,6h30min | 18h30min,6h30min | 18h30min,6h30min | 18h30min,6h30min | 18h30min,6h30min | 18h30min,6h30min | 16h30min | 18h30min,
+"Paróquia Mãe Santíssima, Parque Dois Irmãos,Histórico:",60743-218,"Rua Afonso Lopes, 1050",Parque Dois Irmãos,7h | 17h | 19h, ,19h (celebração da palavra) ,19h,19h, , ,
+"Área Pastoral Nossa Senhora do Brasil, Seminário Seráfico, Messejana",60840-285,"Avenida Frei Cirilo, 4454",Messejana,8h | 9h30min | 16h30min | 18h30min,18h ,18h,18h ,18h,18h,16h30min | 18h30min,
+"Paróquia São Raimundo Nonato, Rodolfo Teófilo",60430-170,"Rua Delmiro de Farias, 1930",Rodolfo Teófilo,7h | 9h | 17h | 19h, , ,6h | 12h | 17h30min  ,18h,18h,19h,"Quartas-feiras das 9h às 11h e das 15h às 19h.,Todas as quartas-feiras às 6h, 10h30min, 12h, 15h, 16h30min, 17h30min e 19h."
+"Paróquia Nossa Senhora da Imaculada Conceição, Pavuna, Pacatuba",61870-972,"Rua Zuleide Sá Roriz, 330",Pavuna, 8h | 19h, , , , , , ,Quartas-feiras de 8h às 11h e 14h às 16h30min.
+"Paróquia São Pedro, Centro, Barreira",62795-000,"Rua Maria do Carmo Teixeira, 1045",Centro,7h | 19h, , , , , , ,Quartas-feiras e quintas-feiras de 9h às 11h e 15h às 16h.
+"Paróquia São Sebastião, Centro, Mulungu",62764-000,"Rua Coronel Justino Café, 891",Centro, 8h | 19h, , , , , , ,"Sextas-feiras de 8h às 11h e 14h às 16h, na casa paroquial."
+"Paróquia São Francisco de Assis, Centro, Palmácia",62780-000,"Rua Moisés Moreira de Andrade, 644",Centro,7h30min | 19h,, , , , ,,"Quintas-feiras de 8h30min às 11h30min, no salão paroquial."
+"Paróquia São Francisco de Paula, Centro, Aratuba",62762-000,"Avenida Arlindo Medina, s/n",Centro,9h | 19h, , , ,19h , ,19h,Sextas-feiras de 8h às 12h.
+"Paróquia São João Batista, Centro, Acarape",62785-000,"Rua Maria Joana de Carvalho, 175",Centro,7h | 19h, , , , , ,19h ,Quartas-feiras a sextas-feiras de 9h às 12h e 14h às 17h.
+"Paróquia Sagrada Família, Centro, Ocara",62755-000,"Avenida Coronel João Felipe, 325",Centro,7h | 19h, , , , , , ,Sextas feiras de 8h às 11h30min.
+"Paróquia Nossa Senhora de Lourdes, Antônio Diogo, Redenção",62790-000,"Praça da Matriz, s/n",Distrito de Antônio Diogo,6h30min | 17h, , , , ,19h , ,"Terças-feiras a sextas-feiras de 8h às 12h, na secretaria paroquial."
+"Paróquia Nossa Senhora das Graças, Ideal, Aracoiaba",62754-000,"Avenida Jaime de Sousa Nobre, 523",Distrito de Ideal,19h, , , , 19h – adoração, , ,
+"Paróquia Nossa Senhora da Palma, Centro, Baturité",62760-000,"Avenida 07 de Setembro, 994",Centro,8h | 19h, , ,19h, , , ,Quartas-feiras de 18h às 18h50min e aos domingos de 7h30min às 7h55min e 18h às 18h50min.
+"Paróquia Nossa Senhora da Conceição, Centro, Redenção",62790-000,"Rua Newton Prado, 8",Centro,,,,,,,,Quintas-feiras de 8h30min às 11h.
+"Paróquia Nossa Senhora da Conceição, Centro, Guaramiranga",62766-000,"Praça Frei Honório, 331",Centro,9h | 18h30min, ,,,18h30min,18h30min,18h30min,Sextas-feiras de 8h às 11h e 14h às 17h.
+"Paróquia Nossa Senhora da Conceição, Centro, Pacoti",62770-000,"Rua Divino Salvador, 180",Centro,8h | 18h , , , , , , 19h,"No 1°, 3°, 4° e 5° domingo, após a Missa de 8h."
+"Paróquia Nossa Senhora da Conceição, Centro, Aracoiaba",62750-000,"Praça da Matriz, s/n",Centro,8h  | 19h, , , ,19h, ,,"Sextas-feiras de 9h às 11h, na secretaria paroquial."
+"Paróquia Cristo Rei, Putiú, Baturité",62760-000,"Igreja Matriz Cristo Rei, s/n",Putiú,8h  |  19h, , , ,19h, ,,"Quartas-feiras e sextas-feiras de 9h às 11h, na secretaria paroquial."
+"Paróquia São Pio X, Pan Americano",60440-780,"Travessa Acre, 75",Pan Americano,8h | 17h | 19h, , , ,,19h,19h ,
+"Paróquia São José, Vila Pery",60730-160,"Rua Arruda Câmara, 765",Vila Pery,7h | 17h | 19h, , ,19h, , ,19h,
+"Paróquia São João Batista, Parque Santo Amaro",60543-318,"Rua A , s/n (vago)","Parque Santo Amaro, Bom Jardim",7h | 19h, , , ,19h30min , , ,Quintas-feiras de 15h30min às 18h30min.
+"Paróquia São Francisco de Assis, Canindezinho",60731-450,"Rua Pitangueiras, 102",Canindezinho, 7h | 17h, ,19h, ,19h, , ,
+"Paróquia Santa Paula Frassinetti, Granja Lisboa",60540-507,"Rua Ari Maia, 950",Granja Lisboa,7h | 19h ,,,,19h,,,
+"Paróquia Santo Antônio de Pádua, Planalto Pici",60512-030,"Rua 8 de junho, 120",Planalto Pici,7h | 17h | 19h, ,19h, ,19h,, ,
+"Paróquia Santa Cecília, Bom Jardim",60543-322,"Rua Coronel João Correia, 2021",Bom Jardim,7h | 17h | 19h,19h, , ,19h , ,17h,"Quintas-feiras, de 9h às 12h e 15h às 18h, na Matriz."
+"Paróquia Nossa Senhora de Salette, Bela Vista",60430-005,"Rua José Façanha, 725",Bela Vista,7h |  9h | 17h30min , ,18h30min, ,18h30min,18h30min,17h30min,"Terças, quintas e sextas-feiras às 17h às 18h."
+"Paróquia Nossa Senhora de Nazaré, Montese",60410-341,"Rua André Chaves, 161",Montese,6h30min | 8h | 11h | 16h30min | 18h | 19h30min,19h,19h,19h,19h,19h,16h30min | 19h,
+"Paróquia Nossa Senhora Aparecida, Montese",60420-431,"Avenida Professor Gomes de Matos, 1921",Montese,7h  |  9h  |  17h  |  19h,,18h30min,18h30min,18h30min,18h30min,19h,
+"Paróquia Jesus, Maria, José, Vila União",60410-770,"Rua Alberto Montesuma,  473",Vila União,8h  | 17h, ,17h30min,17h30min,17h30min,17h30min,17h30min,
+"Paróquia Imaculado Coração de Maria, Henrique Jorge",60521-065,"Rua Professor Miramar da Ponte, 305",Henrique Jorge,7h |  9h | 17h  |  19h,,18h30min,18h30min,18h30min,18h30min,19h,
+"Paróquia Imaculada Conceição e São João XXIII, Jóquei Clube",60520-210,"Rua Perdigão de Oliveira, 1133",Jóquei Clube,7h | 16h30min | 18h30min, ,18h30min,18h30min,18h30min,18h30min,17h,"Terças-feiras a sextas-feiras, de 16h às 18h, na secretaria paroquial."
+"Paróquia Bom Jesus dos Aflitos, Parangaba",60740-101,"Avenida Carlos Amora, 100",Parangaba,6h30min | 8h30min | 17h | 19h, ,,,17h30min,,"19h/ 1º sábado, 6h30min",
+"Paróquia São Vicente de Paulo, Tabapuá, Caucaia",61635-250,"Rua 8 C,  S/N",Tabapuá,7h | 17h | 19h,,,,19h,,,"Terças-feiras, das 16h às 17h, na Igreja Matriz.,1ª segunda, às 19h, Missa por cura e libertação, 1ª sexta, às 19h e dia 13, 12h."
+"Paróquia São Miguel Arcanjo, Conjunto Novo São Miguel – Parque Albano, Caucaia",61645-180,"Rua Quintino Cunha, 1870",Parque Albano ,7h  |  19h, ,,19h,19h, , ,
+"Paróquia São Luís Gonzaga, Pecém, São Gonçalo do Amarante",62670-000,"Rua São Luís Gonzaga, s/n",Distrito do Pecém,7h | 19h, , , , , , ,"Nas primeiras sextas-feiras de cada mês, de 9h às 11h30min e 14h às 18h30min."
+"Paróquia São José Operário, Araturi, Caucaia",61655-040,"Avenida Central Oeste, 155",Araturi,7h | 9h30min | 19h, , , , ,19h30min ,,
+"Paróquia São Gonçalo do Amarante, Centro, São Gonçalo do Amarante, ,Histórico:,Criação: 22/07/1940, por Dom Manuel da Silva Gomes.",62670-000,"Praça da Matriz, s/n",Centro, 8h | 19h, , ,18h , , , ,"Quartas-feiras e quintas-feiras de 8h30min às 11h30min, na secretaria paroquial."
+"Paróquia Santo Antônio, Capuan, Caucaia",61605-730,"Avenida Professora Letícia Marques Cavalcante, s/n – Praça da matriz",Capuan,6h30min | 19h, ,19h, ,19h, , ,"Quintas-feiras de 18h às 19h, na Igreja Matriz."
+"Paróquia São Geraldo Majella, Planalto Caucaia, Caucaia",61605-620,"Rua 100, s/n",Planalto Caucaia,7h | 9h | 17h  , ,18h ,18h,18h,18h ,19h ,
+"Paróquia Santa Teresinha do Menino Jesus, Conjunto Marechal Rondon, Caucaia",61652-390,"Rua Santa Teresinha, 441",Conjunto Marechal Rondon,8h | 17h, ,,,18h,18h,,
+"Paróquia Sagrado Coração de Jesus, Conjunto Nova Metrópole, Caucaia",61658-050,"Avenida A, 760",Conjunto Nova Metrópole,7h | 17h | 19h,, ,, ,19h ,,"Sábados, de 8h às 12h, na Igreja Matriz."
+"Paróquia Nossa Senhora dos Prazeres, Centro, Caucaia",61600-020,"Rua Padre Romualdo, 71",Centro,6h | 8h | 17h | 19h, ,17h30min,17h30min,17h30min, ,19h,
+"Paróquia Nossa Senhora do Carmo, Croatá, São Gonçalo do Amarante",62670-000,"Travessa Vereador José Evaldo, 31",Croatá,8h | 19h, , , ,19h , , ,"Quintas-feiras de 8h às 11h, na Igreja Matriz,"
+"Paróquia Nossa Senhora das Graças, Parque Potira, Caucaia",61648-105,"Rua Jorge Guimarães de Almeida, 1386",Parque Potira,7h | 9h | 17h | 19h, , , ,19h , , ,"Terças-feiras e quartas-feiras de 9h às 11h de 15h às 17h, na Igreja Matriz e quintas-feiras de 19h às 20h, na Igreja Matriz."
+"Paróquia Nossa Senhora das Graças e São Pedro, Tabuba, Caucaia",61618-350,"Rua Maria de Jesus, 235",Tabuba,8h | 10h | 17h | 19h, , , , , , ,Quintas-feiras das 14h às 20h (por agendamento) e aos domingos nos intervalos das missas.
+"Paróquia Nossa Senhora da Imaculada Conceição, Taquara, Caucaia",61685-990,"Rodovia Raimundo Pessoa de Araújo, 4491","Distrito de Mirambé, Taquara", 7h | 19h, , , ,18h , , ,"Quintas-feiras de 15h às 17h, na Igreja Matriz."
+"Paróquia São Luís Gonzaga, Pitombeiras, Cascavel",62858-000,"Avenida Raimundo Sampaio, 308",,,,,,,,,
+"Paróquia São José, Alto Luminoso, Cascavel",62850-000,"Rua São José, s/n",Alto Luminoso,18h30min , , , , , , ,"Quartas-feiras de 8h30min às 11h30 e 15h às 16h30min,"
+"Paróquia São José de Ribamar, Centro, Aquiraz",61700-000,"Praça da Matriz, s/n",Centro,7h | 10h | 19h , , , ,19h , ,18h, 15/08/1713.
+"Paróquia São João Batista, Jacarecoara, Cascavel",62850-000,"Rua Vicente Abites, s/n",Jacarecoara,9h | 19h, , , ,19h, , ,"Quartas-feiras e sextas-feiras de 8h às 12h, na casa paroquial."
+"Paróquia São João Batista, Centro, Horizonte",62880-384,"Avenida Presidente Castelo Branco, 4452",Centro,6h | 7h30min | 9h | 16h | 17h30min | 19h,,,,,,,
+"Paróquia Santa Teresinha do Menino Jesus, Centro, Chorozinho",62875-000,"Avenida Simplício de Carvalho, s/n",Centro,8h | 19h, , , , , , , 23/01/1993.
+"Paróquia São Francisco de Assis, Tapera, Aquiraz",61700-000,"Rua Antônio Marques, s/n, Praça da Matriz",Tapera,7h | 19h,6h,6h,6h,6h | 19h,6h,6h,Quintas-feiras a partir das 18h.
+"Paróquia São João Batista, Aruaru, Morada Nova",62951-000,"Avenida Presidencial Ernesto Geisel, 1173",Distrito Aruaru,7h | 19h, , , ,19h,, ,"Quintas-feiras de 14h às 17h, na Igreja Matriz. (por agendamento)"
+"Paróquia Nossa Senhora de Fátima, Lagoa Seca, Pacajus",62870-000,"Rua Fábio Conrado de Sousa, s/n",Lagoa Seca,7h | 9h | 18h, , , ,19h, , ,"Quartas-feiras de 9h às 11h30min, na secretaria paroquial,"
+"Paróquia Nossa Senhora das Graças, Centro, Pindoretama",62860-000,"Rua Juvenal Gondim, 971",Centro,7h | 19h, , , , ,19h , ,Terças-feiras de 15h às 16h30min;
+"Paróquia Nossa Senhora da Saúde, Caponga, Cascavel",62850-000,"Rua Luiz Pessoa de Oliveira, s/n",Distrito de Caponga,8h | 19h, , , ,, ,19h,
+"Paróquia Nossa Senhora da Penha, Sucatinga, Beberibe",62842-000,"Rua Luís Barbosa,  S/N – ",Sucatinga,8h , , ,5h30min, ,,19h,"Quartas-feiras e quintas-feiras de 8h às 11h, na Igreja Matriz."
+"Paróquia Nossa Senhora da Conceição, Guanacés, Cascavel",62856-000,"Praça da Matriz, 550",Distrito de Guanacés, 7h | 19h, , , , , ,,"Sextas-feiras de 9h às 11, na Igreja Matriz."
+"Paróquia Nossa Senhora da Conceição, Centro, Pacajus",62870-000,"Praça da Matriz, s/n",,,,,,,,,"Quintas-feiras das 8h às 11h e 16h às 19h, na Igreja Matriz."
+"Paróquia Jesus, Maria, José, Centro, Beberibe",62840-000,"Rua Sagrado Coração de Jesus, 15",Centro,7h | 19h, , , ,19h, ,19h ,"Quartas-feiras de 8h às 12h (secretaria paroquial),"
+"Paróquia Nossa Senhora da Conceição, Centro, Cascavel",62850-000,"Rua Professor José Antônio de Queiroz, 1988",Centro,7h | 19h, , , ,18h30min, ,19h,"Terças-feiras e sextas-feiras de 8h às 12h, na secretaria paroquial. "
+"Paróquia Bom Jesus dos Navegantes, Parajuru, Beberibe",62848-000,"Rua Coronel Aderaldo, s/n",Distrito de Parajuru,7h | 19h, , , ,19h , , ,Quintas-feiras de 8h às 11h e 14h às 18h.
+"Área Pastoral São Pedro e São Paulo, Capim de Roça, Pindoretama",62860-000,"Avenida São Pedro, s/n",Capim de Roça,19h, , , ,19h ,, ,
+"Paróquia-Santuário São Benedito, Centro",60015-052,"Avenida do Imperador, 1165",Centro,8h  |  17h,7h | 18h15min,7h | 18h15min,7h | 18h15min,7h | 18h15min,7h | 18h15min,7h | 17h,"Quartas-feiras e quintas-feiras das 15h30min às 17h.,Quintas-feiras, após a Missa das 18h15min.,12h"
+"Santuário Sagrado Coração de Jesus, Centro",60035-110,"Avenida Duque de Caxias, 235 A",Centro,7h | 8h30min | 16h | 18h,7h | 16h,7h | 16h ,7h | 16h ,7h | 16h ,7h | 16h ,7h | 16h,"Terça a sexta, 8h30min às 10h.,Terça a sábado, 14h30min às 15h40min."
+"Paróquia São Vicente de Paulo, Dionísio Torres",60170-002,"Avenida Desembargador Moreira, 2211",Dionísio Torres,6h30min | 9h  | 11h30min  | 17h  |  19h,6h30min | 17h30min,6h30min | 17h30min,6h30min | 17h30min,6h30min | 17h30min,6h30min | 17h30min,6h30min | 12h | 17h,
+"Paróquia Senhor do Bonfim, Monte Castelo",60325-520,"Rua Padre Anchieta, 400",Monte Castelo,8h | 17h | 19h,,17h,17h,17h,17h,16h30min,Quintas-feiras e sextas-feiras de 15h às 17h.
+"Paróquia São José, Papicu",60176-010,"Rua Amélia Benebien, 555",Papicu,8h  | 10h  | 18h,7h30min,18h,7h30min,18h,7h30min,19h,40 minutos antes das celebrações.
+"Paróquia São José, Catedral Metropolitana de Fortaleza, Centro",60030-030,"Rua Sobral, s/n",Centro,9h | 11h | 17h | 19h,Fechado,12h ,12h ,12h ,12h ,12h na Cripta,
+"Paróquia São João Batista, Tauape",60120-075,"Rua Capitão Gustavo, 3940",Tauape,7h | 8h30min | 17h30min,6h | 17h,6h | 17h,6h | 17h,6h | 17h,6h | 17h,6h | 17h,"Quintas-feiras, sextas-feiras e aos domingos das 15h30min às 17h."
+"Paróquia São Francisco de Assis, Jacarecanga",60010-280,"Avenida Filomeno Gomes, 291",Jacarecanga,6h | 8h | 19h, ,17h30min,19h,17h30min,17h30min,17h30min,"Quintas-feiras: 8h, 16h e 19h.,1h antes e após as missas na Igreja dos Navegantes e Santa Edwiges."
+"Paróquia Santo Afonso de Ligório, Parquelândia",60455-410,"Avenida Jovita Feitosa, 2733",Parquelândia,7h | 8h30min | 18h,,18h,18h,18h,18h,19h ,
+"Paróquia Santa Teresinha do Menino Jesus, Vicente Pinzon",60181-190,"Rua do Entardecer, 130",Vicente Pinzon,19h,19h,19h ,19h ,19h , ,19h,"Todos os dias de 18h às 19h, e após a missa, exceto às sextas-feiras."
+"Paróquia Santa Luzia, Meireles",60110-300,"Rua João Cordeiro, 679",Meireles,8h | 10h | 17h | 19h, ,6h30min | 17h,6h30min | 17h,6h30min | 17h,6h30min | 17h,17h ,"José Lourenço Araújo Farias Júnior,José Vitoriano Antunes,José Lopes Cavalcante Júnior,José Haroldo Holanda Filho,Fernando Carlos Queiroz de Vasconcelos"
+"Paróquia Nossa Senhora dos Remédios, Benfica",60020-181,"Avenida da Universidade, 2974",Benfica,7h | 17h | 19h,,17h30min,17h30min,17h30min,17h30min,17h,
+"Paróquia Nossa Senhora do Líbano, Aldeota",,,,,,,,,,,
+"Paróquia Nossa Senhora do Carmo, Centro",60025-180,"Avenida Duque de Caxias, s/n, Praça do Carmo",Centro,8h | 10h  | 16h  | 18h, ,7h30min | 17h,7h30min | 17h,7h30min | 17h,7h30min | 17h,7h30min | 17h,Terças-feiras às sextas-feiras de 15h às 17h. (por ordem de chegada)
+"Paróquia Nossa Senhora de Lourdes, Ellery",60321-070,,Ellery,8h | 18h30min, ,18h, ,18h,18h,18h,
+"Paróquia Nossa Senhora de Lourdes, Dunas",60177-115,"Avenida Padre Joaquim Colaço Dourado,  s/n – subsolo da igreja",De Lourdes,9h  |  11h  |  17h30min  |  19h30min, ,18h30min,18h30min,18h30min,18h30min,18h,
+"Paróquia Nossa Senhora de Fátima, Fátima",60411-270,"Rua Paula Rodrigues, 100",Fátima,7h | 9h | 12h | 17h | 19h,6h30min | 12h | 17h,6h30min | 12h | 17h,6h30min | 12h | 17h,6h30min | 12h | 17h,6h30min | 12h | 17h,6h30min | 12h | 16h | 17h30min | 19h,"Terças-feiras a sextas-feiras das 15h30min às 17h, por ordem de chegada."
+"Paróquia Nossa Senhora das Dores, Otávio Bonfim",60011-280,"Praça Farias Brito, s/n",Otávio Bonfim,6h30min | 9h | 17h | 19h, ,6h30min | 18h30min,,18h30min,18h30min,18h30min,Quintas-feiras e sextas-feiras de 14h30min às 17h. (por ordem de chegada)
+"Paróquia Nossa Senhora da Saúde, Mucuripe",60165-082,"Avenida da Abolição, 3929",Mucuripe,7h | 8h30min | 17h | 19h,,17h,17h,17h,17h,17h,
+"Paróquia Nossa Senhora da Piedade, Joaquim Távora",60135-130,"Rua Joaquim Torres, 185",Joaquim Távora,7h | 9h | 17h | 19h,,17h,17h,17h | 19h,17h,18h,
+"Paróquia Nossa Senhora da Paz, Aldeota",60125-160,"Rua Visconde de Mauá,  905",Aldeota,8h | 11h | 16h | 18h | 20h,16h | 18h,16h | 18h,16h | 18h,16h | 19h,16h | 18h,8h | 16h | 18h,
+"Paróquia Divino Espírito Santo, Cidade 2000",60190-560,"Avenida Adenanteras, 175",Cidade Dois Mil,7h | 9h | 17h | 19h,,19h,,19h,,18h,"Terça-feira de 17h às 18h30, quinta-feira de 17h às 18h30 e na 1ª sexta-feira de 17h às 18h30."
+"Paróquia de Nossa Senhora Aparecida, Praia do Futuro",60182-012,"Rua Professor Álvaro Costa, 257",,,,,,,,,
+"Paróquia Cristo Rei, Aldeota",60110-140,"Rua Nogueira Acioli, 805",Aldeota,6h30min | 9h | 11h |  17h  | 19h,17h,17h,17h,17h,17h,6h30min | 17h,
+"Igreja de Nossa Senhora do Patrocínio, Centro",60030-140,"Rua Guilherme Rocha, 536",Centro,,,,,,,,
+"Paróquia Nossa Senhora Mãe da Igreja, Padre Andrade",60356-575,"Rua Doutor Edson de Carvalho Lima, 377",Padre Andrade,7h | 9h | 17h , ,17h , , , ,17h,
+"Paróquia Nossa Senhora do Perpétuo Socorro, Carlito Pamplona",60335-390,"Rua Cônsul Gouvêia, 44",Carlito Pamplona,7h | 9h | 19h , ,19h,19h,19h,19h,19h,Quintas-feiras e sextas-feiras de 8h30min às 11h e 14h30min às 16h.
+"Paróquia Nossa Senhora de Fátima, Parque Genibaú",60534-090,"Rua Santa Adélia, 692",,,,,,,,,
